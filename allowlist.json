@@ -1,0 +1,57 @@
+
+{
+    "allowlist": [
+        {
+            "package": "dennisameling/helloworld-bundle",
+            "minimum_mautic_version": "4.1.0",
+            "maximum_mautic_version": null
+        },
+        {
+            "package": "mtcextendee/mautic-owner-rotator-bundle",
+            "minimum_mautic_version": "4.1.0",
+            "maximum_mautic_version": null
+        },
+        {
+            "package": "acquia/mc-cs-plugin-custom-objects",
+            "display_name": "Custom Objects",
+            "minimum_mautic_version": "4.3.0",
+            "maximum_mautic_version": null
+        },
+        {
+            "package": "mtalkz-mobility/mautic-mtalkz-bundle",
+            "display_name": "Mtalkz SMS",
+            "minimum_mautic_version": "4.3.0",
+            "maximum_mautic_version": null
+        },
+        {
+            "package": "cronfig/mautic-cronfig",
+            "display_name": "Cronfig",
+            "minimum_mautic_version": "4.3.0",
+            "maximum_mautic_version": null
+        },
+        {
+            "package": "mzagmajster/omnivery-mailer-bundle",
+            "display_name": "Omnivery integration",
+            "minimum_mautic_version": "4.3.0",
+            "maximum_mautic_version": null
+        },
+        {
+            "package": "granam/mautic-czech-vocative-bundle",
+            "display_name": "Czech Vocative Bundle",
+            "minimum_mautic_version": "4.3.0",
+            "maximum_mautic_version": null
+        },
+        {
+            "package": "webmecanik/mautic-bitly-bundle",
+            "display_name": "Bitly Bundle",
+            "minimum_mautic_version": "5.0.0",
+            "maximum_mautic_version": null
+        },
+        {
+            "package": "mosparo/mautic-integration-bundle",
+            "display_name": "Mosparo integration",
+            "minimum_mautic_version": "5.0.0",
+            "maximum_mautic_version": null
+        }
+    ]
+}
